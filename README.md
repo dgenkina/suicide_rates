@@ -1,4 +1,9 @@
 # suicide_rates
+
+Dear Data Incubator,
+  The application page would not accept the valid urls I provided. Here are the urls for public descriptions of the datasets I used: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016 and https://globeproject.com/study_2004_2007#data . I hope you find them.
+  
+  
 The intent of this project is to study the dependence of suicide rates on cultural norms and values, teasing out contributing factors beyond economics. Insights from this project could be potentially useful to governments and world aid organizations, guiding their resource allocation decisions for maximal impact, as well as individual psychotherapists, informing them which cultural trends are to be encouraged and which are best avoided. 
 
 To tackle this question, I downloaded two datasets: a Kaggle dataset containing suicide rates by country from 1985 to 2016 (https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016), and results of an international research study by the Globe Project measuring societal beliefs on a number of topic by country (https://globeproject.com/study_2004_2007#data). I combined these two datasets by country, throwing out countries that occurred in one dataset and not the other. 
